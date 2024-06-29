@@ -7,7 +7,7 @@ use my hugging_face token
 #use it directly in the CMD / Powershell to activate the token
 for example: 
 
-$~ export HUGGINGFACE_HUB_TOKEN= <huggingface-token>
+$~ export HUGGINGFACE_HUB_TOKEN = huggingface-token
 
 
 
