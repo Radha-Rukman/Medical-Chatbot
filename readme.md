@@ -2,12 +2,12 @@ This is demo version of a Mediacal Chatbot  Created using
 Model = mistralai/Mistral-7B-v0.3
 
 
-use my hugging_face token = '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'
+use my hugging_face token 
 
 #use it directly in the CMD / Powershell to activate the token
 for example: 
 
-$~ export HUGGINGFACE_HUB_TOKEN=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
+$~ export HUGGINGFACE_HUB_TOKEN= <huggingface-token>
 
 
 
